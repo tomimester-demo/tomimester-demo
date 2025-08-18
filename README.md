@@ -1,4 +1,4 @@
-👋 Hi, this is Tomi Tester's demo account for tutorial! Nothing you find here's real. My real GH account: [here] (https://github.com/tomimester)
+👋 Hi, this is Tomi Tester's demo account for tutorial! Nothing you find here's real. My real GH account: [here](https://github.com/tomimester)
 
 I'm passionate about data science and love to build data-driven solutions. Here’s what I do:
 
